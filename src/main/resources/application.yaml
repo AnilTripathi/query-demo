@@ -12,5 +12,5 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/queryexample
     username: postgres
-    password: Wellness36@
+    password: password
     driver-class-name: org.postgresql.Driver
